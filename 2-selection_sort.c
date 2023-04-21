@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * selection_sort - sort doubl linked list with selection sort alg
+ * selection_sort - sort array with selection sort alg
  * @array: array to sort
  * @size: size of array
  * Return: void
